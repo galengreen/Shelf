@@ -1,6 +1,6 @@
 # Shelf
 
-A native iOS player for [Audiobookshelf](https://www.audiobookshelf.org), modelled on plappa's layout and built with a focus on reliability, battery life and data use.
+A native iOS player for [Audiobookshelf](https://www.audiobookshelf.org), built with a focus on reliability, battery life and data use.
 
 Requires Xcode 26.1+ and iOS 26.1+ (it uses Liquid Glass and the tab bar accessory slot for the mini player). There are no third-party dependencies.
 

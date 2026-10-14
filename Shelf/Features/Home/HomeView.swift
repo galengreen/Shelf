@@ -206,7 +206,7 @@ private struct HeroSection: View {
     }
 }
 
-/// "Narrator · 2010 · 11h 14m" line, as in plappa.
+/// "Narrator · 2010 · 11h 14m" line.
 struct MetaSummary: View {
     let item: LibraryItem
 

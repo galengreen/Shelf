@@ -521,7 +521,7 @@ private struct RoutePicker: UIViewRepresentable {
     func updateUIView(_ uiView: AVRoutePickerView, context: Context) {}
 }
 
-/// Chapters, bookmarks and the up-next queue, shown in place of the artwork (as in plappa).
+/// Chapters, bookmarks and the up-next queue, shown in place of the artwork.
 private struct ListPanel: View {
     enum Mode: String, CaseIterable { case chapters = "Chapters", bookmarks = "Bookmarks", queue = "Up Next" }
 
